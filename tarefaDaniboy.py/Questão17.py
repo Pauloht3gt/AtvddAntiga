@@ -1,0 +1,3 @@
+
+numPessoas : int 
+numCanal : int 
